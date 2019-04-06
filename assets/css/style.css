@@ -1,5 +1,11 @@
 /* NAVBAR */
-a, .navbar-brand, h1, h3 {
+h1, h3 {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 100;
+    text-shadow: 2px 2px 8px black;
+}
+
+.navbar-brand, a {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-weight: 100;
 }
@@ -17,7 +23,7 @@ h6 {
 
 .carousel-inner img {
     width: 100%;
-    height: 50%;
+    height: 100%;
     
 }
 .carousel-caption {
@@ -25,21 +31,13 @@ h6 {
     top: 39%;
 }
 
-/* .bg {
-    background-attachment: src(/assets/images/jumbotron.JPG) fixed;
-    position: fixed;
-    width: 100%;
-    height: 350px; 
-    background-size: cover;
-    top:0;
-    left:0;
-    z-index: -1;
-  }
-   
-.jumbotron {
-    margin-bottom: 0px;
-    height: 350px;
+.display-5, .display-7 {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 100;
     color: white;
-    text-shadow: grey 0.2em 0.2em 0.2em;
-    background:transparent;
-  } */
+    /* text-shadow: 2px 2px 8px lightslategray; */
+}
+
+#pogi {
+    background-color: #04b3e7;
+}
