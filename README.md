@@ -25,7 +25,7 @@ I also used <polygon> to style the background shapes
 * FontAwesome
 
 ## Will be depolyed via Gitpages and Heroku:
-* <a href="#">Github</a>
+* <a href="https://estevansta.github.io/personal-html-template">Github</a>
 * <a href="#">Heroku</a>
 
 ## Future Updates
